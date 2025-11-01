@@ -80,12 +80,6 @@ The Game revolves around you being ViallinMan, who is a Bad guy who you can choo
 
 
 ## סקירת משחקים קיימים
-
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
-
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
-
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
 Superhero Simulator: Game that simulates being a superhero and might have similar controls and feel but this game is about being the villain and destroying the city.
 
 <img src="images/Superhero Simulator.webp" alt="Concept" width="400">
@@ -98,9 +92,9 @@ Prototype: A game where you have powers and can cause a lot of destruction. my g
 
 <img src="images/Prototype.webp" alt="Concept" width="400">
 
-* שימו קישור וצילום-מסך להמחשה.
 
-*In general this game will hit that fell of being free in a sandbox causing destructions and being rewarded for it. It will have a light tone with simple graphics and maybe a little story tieing all the villains and heroes together.
+
+*In general this game will hit that felling of being free in an interesting sandbox causing destructions and being rewarded for it. It will have a light tone with simple graphics and maybe a little story tieing all the villains and heroes together.
 
 
 </div>

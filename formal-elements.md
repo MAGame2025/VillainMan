@@ -27,8 +27,6 @@ The Game revolves around you being ViallinMan, who is a Bad guy who you can choo
 
 ### 3. תהליכים
 
-תארו בפירוט את:
-
 * At first the player will enter the city, he will see a meter indicating how much damage he caused. he will be tasked to destroy a couple of vehicles, a building and fight low difficulty cops and then he will continue the run on hsi own trying to achieve the objective.
 *	The player will try to destroy as much objects and enemies to achieve a high enough score to fight the boss. between runs The player will be able to buy charachters, cosmetics and upgrades.
   
@@ -52,24 +50,15 @@ The Game revolves around you being ViallinMan, who is a Bad guy who you can choo
 * The player will have counter for Gold and will have a level indicating how much Exp he got. The player wont really know about destruction points but will have a meter indicating how much more destructions he needs to do.
 
 ### 6. עימותים
-
-מה יהיו העימותים המרכזיים במשחק:
-
 * Main difficulty will be in doing enough damage fast, dealing with enemies and a boos fight at the end of each level.,
 * The player wont have much self conflict as he is a Villain and the game will have a comic tone to it
    
-
-
 ### 7. גבולות
-
 *The world will be hand crafted levels. The player will be able to leave the playable area for a short distance but will be warned, if he reaches a certain distance from the playable area he will lose the run. 
 *The maps will be various cities who will become ruined the further you destroy them. It will start a nice day with blue skies and cars driving and slowly turn into oranger skies with smoking buldings, fires, 
 *and more frantic driving cars and military/ police everywhere.
 
-
-
 ### 8. תוצאות
-
 * You can either win/lose to the boss/get out of bounds/lose to the timer. 
 * The game is mainly skill based with not much luck. 
 

@@ -8,4 +8,4 @@ The game offers fast-paced, fun destruction with a comic tone and multiple handc
 
 Group Members are: Moshe Askarov 
 
-[formal-elements]([https://pages.github.com/](https://github.com/MAGame2025/VillainMan/blob/main/formal-elements.md))
+[formal-elements](https://github.com/MAGame2025/VillainMan/blob/main/formal-elements.md)

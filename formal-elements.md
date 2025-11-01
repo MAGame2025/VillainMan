@@ -22,69 +22,62 @@ The Game revolves around you being ViallinMan, who is a Bad guy who you can choo
 
 ### 1. שחקנים
 
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
+*The game is designed for a casual audience who might to play an arcady game for short/long bursts. It will be SinglePlayer level based with a very light story getting you from level to level.
 
 ### 2. יעדים
 
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
+*The player will need to destroy cars, building, general infrustructure, cops/military/tanks/helicopers etc.. If the player didnt cause enough chaos then the hero will come and automatically stop him. If the player manages to cause enough damage the player will have a boss battle with the hero and will be able to complete the level by defeating the boss.
+* The game will have a tutorial and hints to help the player throughout the game 
 
 
 ### 3. תהליכים
 
 תארו בפירוט את:
 
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".  תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
+* At first the player will enter the city, he will see a meter indicating how much damage he caused. he will be tasked to destroy a couple of vehicles, a building and fight low difficulty cops and then he will continue the run on hsi own trying to achieve the objective.
+*	The player will try to destroy as much objects and enemies to achieve a high enough score to fight the boss. between runs The player will be able to buy charachters, cosmetics and upgrades.
+  
+*The default charachter will propably have the ability to fly, laser eyes and strength. it will be third person and you will be able to deal melle dammage and ranged damaged to various degrees. other charachters will also have their unique quirks and abilities.
 
-איך השחקן ילמד על התהליכים? 
+*The player will have an explenations on each charachter before choosing them. 
 
 ### 4. חוקים
 
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
+* The players limits are his health and time. if the player runs out of health he will lose the run, and so is true for if he doesnt cause enough damage.
+* Each destroyed object or defeated enemy will provide points twords the player's destruction points which if he get enough of he will win. 
+* The game's rules will be explained to the player in the tutorial and in text before starting a level.
 
 
 ### 5. משאבים
 
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+* The game's resources are Gold, Exp, Destruction Points
+* You will recieve Gold and Exp after each attempt relative to how many destruction points you got.
+* And you will recieve Destruction Points by destroying objects or defeating enemies.
+* The player will recieve a lower ammount if he loses but still enough to upgrade.
+* The player will have counter for Gold and will have a level indicating how much Exp he got. The player wont really know about destruction points but will have a meter indicating how much more destructions he needs to do.
 
 ### 6. עימותים
 
 מה יהיו העימותים המרכזיים במשחק:
 
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+* Main difficulty will be in doing enough damage fast, dealing with enemies and a boos fight at the end of each level.,
+* The player wont have much self conflict as he is a Villain and the game will have a comic tone to it
+   
 
 
 ### 7. גבולות
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
+*The world will be hand crafted levels. The player will be able to leave the playable area for a short distance but will be warned, if he reaches a certain distance from the playable area he will lose the run. 
+*The maps will be various cities who will become ruined the further you destroy them. It will start a nice day with blue skies and cars driving and slowly turn into oranger skies with smoking buldings, fires, 
+*and more frantic driving cars and military/ police everywhere.
 
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
 
 
 ### 8. תוצאות
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+* You can either win/lose to the boss/get out of bounds/lose to the timer. 
+* The game is mainly skill based with not much luck. 
 
----
 
 ## סקירת משחקים קיימים
 
@@ -93,12 +86,21 @@ The Game revolves around you being ViallinMan, who is a Bad guy who you can choo
 חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
 
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
+Superhero Simulator: Game that simulates being a superhero and might have similar controls and feel but this game is about being the villain and destroying the city.
+
+<img src="images/Superhero Simulator.webp" alt="Concept" width="400">
+
+Hulk: It has a similar concept where you can cause a lot of damage to a city but it is a story game where my game is more arcady and can be enjoyed in short bursts.
+
+<img src="images/HulkGame.webp" alt="Concept" width="400">
+
+Prototype: A game where you have powers and can cause a lot of destruction. my game is different because it is more focused on destroying the whole city and cause even more chaos.
+
+<img src="images/Prototype.webp" alt="Concept" width="400">
 
 * שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
 
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+*In general this game will hit that fell of being free in a sandbox causing destructions and being rewarded for it. It will have a light tone with simple graphics and maybe a little story tieing all the villains and heroes together.
 
 
 </div>

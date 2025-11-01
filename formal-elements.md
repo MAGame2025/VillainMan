@@ -9,7 +9,7 @@
 The Game revolves around you being ViallinMan, who is a Bad guy who you can choose from a roster of villains with different powers. You'r objective is to Destroy the city in a given ammount of time (until the hero comes to stop you). You will be put in a hand crafted city level where you will nedd to cause enough damage to pass the levels requirements, If you manage you cause enough damage then you will face the hero in a sort of boss battle where if you beat him then you win the level. you will go through levels and beat various heroes untill you reach the final level where you fight a superman esc hero and if you beat him you won the game. upon winning/losing you will recieve coins and exp which will allow you to unlock other villains, upgrades and maybe cosmetics. It will be developed for PC
 
 
-![Concept](https://github.com/MAGame2025/VillainMan/blob/main/images/ChatGPT%20Image%20Nov%201,%202025,%2008_20_11%20AM.png?raw=true)
+<img src="images/ChatGPT_Image_Nov_1_2025.png" alt="Concept" width="400">
 
 
 

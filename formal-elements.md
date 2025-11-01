@@ -15,11 +15,6 @@ The Game revolves around you being ViallinMan, who is a Bad guy who you can choo
 
 ## רכיבים רשמיים
 
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
-
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
-
 ### 1. שחקנים
 
 *The game is designed for a casual audience who might to play an arcady game for short/long bursts. It will be SinglePlayer level based with a very light story getting you from level to level.

@@ -9,7 +9,7 @@
 The Game revolves around you being ViallinMan, who is a Bad guy who you can choose from a roster of villains with different powers. You'r objective is to Destroy the city in a given ammount of time (until the hero comes to stop you). You will be put in a hand crafted city level where you will nedd to cause enough damage to pass the levels requirements, If you manage you cause enough damage then you will face the hero in a sort of boss battle where if you beat him then you win the level. you will go through levels and beat various heroes untill you reach the final level where you fight a superman esc hero and if you beat him you won the game. upon winning/losing you will recieve coins and exp which will allow you to unlock other villains, upgrades and maybe cosmetics. It will be developed for PC
 
 
-![Concept]([https://imgs.search.brave.com/OFWHt9blTVA54OJJ-72XkzqIaka12gFSyl4VOLTXf6M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMwMy5taWxpdGFy/eS5jb20vc2l0ZXMv/ZGVmYXVsdC9maWxl/cy9zdHlsZXMvZnVs/bC9wdWJsaWMvdW5k/ZXJ0aGVyYWRhci10/aHVtYm5haWxzLzIw/MTMvMDYvd3d6My5q/cGc_aXRvaz1lZGRG/VXZXTg](https://chatgpt.com/backend-api/estuary/content?id=file_000000005fc0720cb5106e0159bff393&ts=489438&p=fs&cid=1&sig=2e22d0f648658b9b9400bbf894e13d410e4ce064ebb154cd3f2588bfa7c1db07&v=0))
+![Concept]((https://imgur.com/a/p28N2xP))
 
 
 

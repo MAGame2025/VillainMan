@@ -4,15 +4,15 @@
 The global PC gaming market remains big, generating over [$40 billion annually](https://www.blog.udonis.co/mobile-marketing/mobile-games/gaming-industry#h2-4).
 The global market for PC action games with sandbox or destruction elements is significant and growing. Sandbox-style games (which include open-world and destruction-based titles) were valued at over [$7.2 billion in 2023, and are projected to reach $17.5 billion by 2031 (an 11.2% CAGR)](https://www.verifiedmarketresearch.com/product/sandbox-games-market).
 Within the PC market, recent data shows that roughly [half of 2025's top performing](https://intoindiegames.com/features/indie-and-aa-games-have-dominated-2025-so-far/) Steam games have come from independent or "AA" studios.
-And with the constant rise of people consuming quick doses of content (games, shorts, ai summaries) I personaly belive the market for quick and fullfilling gaming expiriences will see a big rise in the future.
+And with the constant rise of people consuming quick doses of content (games, shorts, ai summaries) I personally believe the market for quick and fulfilling gaming experiences will see a big rise in the future.
 
 **Target Audience:**
 
-The target audience for VillainMan is PC gamers ages 13–35 who want to play for around an hour and still have a fullfilling expirience (not much story fluff or text or cutscenes just a couple of menues and youre in the game with a 30 mins or shorter game loop for each level), this makes it very suitable for busy people who might play in short bursts but repeatedly. Fans of superheroes or superhero media in general (shows, movies, comics).
+The target audience for VillainMan is PC gamers ages 13–35 who want to play for around an hour and still have a fulfilling experience (not much story fluff or text or cutscenes just a couple of menus and you're in the game with a 30 mins or shorter game loop for each level), this makes it very suitable for busy people who might play in short bursts but repeatedly. Fans of superheroes or superhero media in general (shows, movies, comics).
 
 **Competitive Landscape:**
 
-There aren't many Arcade power fantasy games made like VillainMan. Games like Prototype, Crackdown, Saints Row 4 which are great examples of games similar to VillainMan but are rarely made (And are also rarely a big financial succees even tho the players love the game). 
+There aren't many Arcade power fantasy games made like VillainMan. Games like Prototype, Crackdown, Saints Row 4 which are great examples of games similar to VillainMan but are rarely made (And are also rarely a big financial success even tho the players love the game). 
 Other games which may be considered a power fantasy are also something else. While DOOM: The Dark Ages may be considered a power fantasy it is much more of a doom shooter and an additional entry to the franchise. similar with God of War games old and new. 
 Key competitors and [comparable titles include](https://gamerant.com/best-all-time-goat-definitive-list-power-fantasy-games/):
 
@@ -25,7 +25,7 @@ it’s a cult classic that showed the appetite for playing a super-strong charac
 
 Saints Row 4 (Volition, 2013):
 
-The Saints Row series wasn't initially designed to be a power fantasy; the first game was more or less a GTA clone with a few quirks to make it stand out. However, it struggled to compete with Rockstar's juggernaut franchise, so Volition decided to take Saints Row in a different, and more absurd, direction for its second, third, and fourth entries. While each game was solid in its own right, Saints Row 4 is the series at its most satirical, and as a result, it gives players an avatar with the most ridiculous abilities at their disposal.
+The Saints Row series wasn't initially designed to be a power fantasy; the first game was more or less a GTA clone with a few quirks to make it stand out. However, it struggled to compete with Rockstar's juggernaut franchise, so Volition decided to take Saints Row in a different, and more absurd, direction for its second, third, and fourth entries. While each game was solid in its own rightt, Saints Row 4 is the series at its most satirical, and as a result, it gives players an avatar with the most ridiculous abilities at their disposal.
 From leaping over buildings to super-speed to elemental abilities and telekinesis, the "story" is really just an excuse to unleash one of the most absurdly powerful protagonists in video game history. Add to that the array of absurdist weapons, such as the Dubstep gun, and Saints Row 4 proves that a power fantasy doesn't need logic to be fun; in fact, throwing logic out the window may be the most fun decision of all.
 Despite mixed critical reception at launch, Saints Row IV sold over [one million copies](https://www.vgchartz.com/game/226310/saints-row/) during its first week of release in August 2013, marking a significant commercial success for the franchise.
  While the game's initial launch sales reached this milestone, its lifetime sales figures have not been officially disclosed by the publisher.
@@ -47,7 +47,7 @@ Prototype proved that gamers relish the evil power fantasy (consuming people, bl
 
 
 **Unique Selling Proposition (USP)**
-VillainMan’s Unique Selling Proposition is the promise of a fullfilling expirience like in the mentioned game but in an arcade format with 30 mins game loops. It will not have a story and all the focus will go on making the game play and feel right. also the tone will be light and fun. The player will have several options of villains to choose from with each one providing fun ways to complete the level (one hero might have the ability to fly and shoot lasers while another might have the ability to jump really high and throw big rocks). Additional seeling point, given that its a small arcady game it will also be a pretty cheap one time purhcase type of game which might intise some people to try it out.
+VillainMan’s Unique Selling Proposition is the promise of a fulfilling experience like in the mentioned game but in an arcade format with 30 mins game loops. It will not have a story and all the focus will go on making the game play and feel rightt. also the tone will be light and fun. The player will have several options of villains to choose from with each one providing fun ways to complete the level (one hero might have the ability to fly and shoot lasers while another might have the ability to jump really high and throw big rocks). Additional selling point, given that its a small arcady game it will also be a pretty cheap one time purchase type of game which might entice some people to try it out.
 
 
 **Platform & Distribution Strategy:**
@@ -76,8 +76,8 @@ Achievements and Milestones: Steam achievements or in-game milestones serve as m
 
 **Danger Analysis and opportunities:**
 
-The main danger with this project is propably its scope. To achieve a proper powerfantasy game which feels just righ, is challenging and addicting. you will most likely need to spend a great amount of work on the sound , music, animations, particles etc...
-Stuff that are very difficult to accomplish in indie games. Also, there arent many games realesing nowadays with such mechanichs given that today companies focus on a games as a service monetisation scheme (fortnite, pubg, warzone..). So with the expensive production and mostly outdated one time purchase selling strategy it becomes apparent why studios dont make such games anymore. which also opens the door for an indie game with just the right amount of polish and a pretty propably blocky oldschool(easier to develop) artstyle to really shine today.
+The main danger with this project is probably its scope. To achieve a proper powerfantasy game which feels just right, is challenging and addicting. you will most likely need to spend a great amount of work on the sound , music, animations, particles etc...
+Stuff that are very difficult to accomplish in indie games. Also, there aren't many games releasing nowadays with such mechanics given that today companies focus on a games as a service monetisation scheme (fortnite, pubg, warzone..). So with the expensive production and mostly outdated one time purchase selling strategy it becomes apparen't why studios dont make such games anymore. which also opens the door for an indie game with just the rightt amount of polish and a pretty probably blocky oldschool(easier to develop) artstyle to really shine today.
 
 **Conclusion:**
 In conclusion, VillainMan is a marketable and exciting concept in a genre that has room for innovation. The market is "OK" (not mainstream, but large enough globally to support strong sales if even a fraction of action gamers are converted). By emphasizing what makes it different and addressing the noted risks, VillainMan can differentiate itself from competitors and appeal to gamers’ love of destruction and villainous fun. In general if I can find a simple but pretty artstyle for the game, I can move forward with this project: the research suggests that with solid execution, VillainMan can achieve success as a standout arcade destruction title in the global PC market. 

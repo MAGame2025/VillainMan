@@ -1,6 +1,6 @@
 **Level Design**
 
-VillainMan is a third-person arcade destruction game where each level focuses on superhero-scale movement, and enviormental destruction. Levels are handcrafted city environments, designed as contained arenas
+VillainMan is a third-person arcade destruction game where each level focuses on superhero-scale movement, and environmental destruction. Levels are handcrafted city environments, designed as contained arenas
 
 filled with vehicles, police/military units, civilians, props, and destructible structures.
 
@@ -24,7 +24,7 @@ The tutorial is fully guided and meant to introduce mechanics without any diffic
 
 **Level 1 – Medium City**
 
-A small city district designed to give the player their first true gameplay expirience.
+A small city district designed to give the player their first true gameplay experience.
 
 might all take place at one military camp/ police station.
 
@@ -44,5 +44,5 @@ The largest and most challenging(not too much) level. This is where the player f
 
 It will contain a full city map with buildings, dense traffic, civilians & enemies maybe even some easter eggs and secrets.
 
-i will have around 30+ mins of gameplay content and will include the final difficult boss. 
+It will have around 30+ mins of gameplay content and will include the final difficult boss. 
 

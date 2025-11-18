@@ -38,7 +38,7 @@ Maybe an underground parking entrances for enemy spawns
 
 15 mins time limit with a mild difficulty regarding how much destruction the player needs to cause and a mildly difficult boss.
 
-**Level 3*- Large City**
+**Level 3- Large City**
 
 The largest and most challenging(not too much) level. This is where the player faces the “superman-style” final hero.
 
